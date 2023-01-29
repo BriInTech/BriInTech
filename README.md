@@ -4,7 +4,7 @@ My name is :sparkles: Brianna Ford :sparkles: and I am a business analyst :bar_c
 
 > A business analyst is like a detective, but with numbers instead of clues. :female_detective: :mag_right:
 
-<a href="https://media.giphy.com/media/pjpGMumGzbS5LsaNp3/giphy.gif">
+<a href="https://media.giphy.com/media/pjpGMumGzbS5LsaNp3/giphy.gif"/>
   <img src="LINK_TO_GIF.gif" alt="Gif" width="150" height="150">
 </a>
 
