@@ -2,7 +2,7 @@
 
 My name is :sparkles: Brianna Ford :sparkles: and I am a business analyst :bar_chart: :briefcase:. My primary focus is to analyze the operations and performance of a company in order to identify areas for improvement and recommend solutions. My ultimate goal is to help organizations make informed decisions that drive success.
 
-> A business analyst is like a detective, but with numbers instead of clues. :female_detective: :mag_right:
+> A business analyst is like a detective, but with numbers instead of clues. 🕵🏾 :mag_right:
 
 <img src= "https://media.giphy.com/media/pjpGMumGzbS5LsaNp3/giphy.gif" width=30% height=30%>
 
