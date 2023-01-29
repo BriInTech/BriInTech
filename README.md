@@ -21,4 +21,3 @@ My name is :sparkles: Brianna Ford :sparkles: and I am a business analyst :bar_c
 </dt>
 
 Thanks for visiting my GitHub profile! Feel free to take a look around and check out my projects. If you have any questions or just want to say hi, you can reach me at briannaf3598@gmail.com.
-![giphy](https://user-images.githubusercontent.com/115441149/215349414-a01c20bd-c9e7-4ca5-b1c5-e125681942c2.gif)
