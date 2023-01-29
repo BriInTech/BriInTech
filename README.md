@@ -6,14 +6,11 @@ My name is :sparkles: Brianna Ford :sparkles: and I am a business analyst :bar_c
 
 ![BA-Giphy](https://user-images.githubusercontent.com/115441149/215341559-c3811d44-246b-4895-8f06-deb6f88b3ce9.gif)
 
-<a href="https://media.giphy.com/media/pjpGMumGzbS5LsaNp3/giphy.gif"/>
-  <img src="LINK_TO_GIF.gif" alt="Gif" width="150" height="150">
-</a>
 
 ## Contact Me :mailbox_with_mail:
 </dt>
 <dt>
-<a href="https://www.linkedin.com/in/brianna-ford-2b5b5b1b3/">
+<a href="https://www.linkedin.com/in/brianna--ford">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
    </a>
 </dt>
