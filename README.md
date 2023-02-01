@@ -1,5 +1,4 @@
-<div align="center">
-  <a href="https://github.com/BriInTech">
+<div align="center"
     <img src=![Welcome](https://user-images.githubusercontent.com/115441149/216049360-70221098-722c-4d88-a3d4-322b23aa980e.png)
 "" width="500">
   </a>
