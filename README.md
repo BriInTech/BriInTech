@@ -1,5 +1,10 @@
-# Welcome
-
+<div align="center">
+  <a href="https://github.com/BriInTech">
+    <img src=![Welcome](https://user-images.githubusercontent.com/115441149/216049360-70221098-722c-4d88-a3d4-322b23aa980e.png)
+"" width="500">
+  </a>
+</div>
+<br>
 My name is :sparkles: Brianna Ford :sparkles: and I am a business analyst :bar_chart: :briefcase:. My primary focus is to analyze the operations and performance of a company in order to identify areas for improvement and recommend solutions. My ultimate goal is to help organizations make informed decisions that drive success.
 
 > A business analyst is like a detective, but with numbers instead of clues. 🕵🏾 :mag_right:
