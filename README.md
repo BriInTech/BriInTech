@@ -1,4 +1,4 @@
-![Welcome1](https://user-images.githubusercontent.com/115441149/216053484-ed5c759b-bc61-4fcc-a70e-5bd4fe53ec3b.png)
+![Welcome2](https://user-images.githubusercontent.com/115441149/216053989-1672e89e-8754-4499-ae80-35237c09e7b8.png)
 
 My name is :sparkles: Brianna Ford :sparkles: and I am a business analyst :bar_chart: :briefcase:. My primary focus is to analyze the operations and performance of a company in order to identify areas for improvement and recommend solutions. My ultimate goal is to help organizations make informed decisions that drive success.
 
