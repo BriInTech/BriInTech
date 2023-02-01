@@ -18,6 +18,11 @@ My name is :sparkles: Brianna Ford :sparkles: and I am a business analyst :bar_c
 <a href="https://twitter.com/briannaford__">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
    </a>
+   </dt>
+<dt>
+<a href="https:mailto:briannaf3598@gmail.com">
+<img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Email" />
+   </a>
 </dt>
 
 Thanks for visiting my GitHub profile! Feel free to take a look around and check out my projects. If you have any questions or just want to say hi, you can reach me at briannaf3598@gmail.com.
