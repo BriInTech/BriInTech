@@ -1,9 +1,5 @@
-<div align="center"
-<img src="![Welcome](https://user-images.githubusercontent.com/115441149/216049582-e5204842-a1d6-4240-b348-4e075d01d7c6.png)"
-    width="500">
-  </a>
-</div>
-<br>
+<img src="![Welcome](https://user-images.githubusercontent.com/115441149/216049582-e5204842-a1d6-4240-b348-4e075d01d7c6.png)" width="50% height=50%
+
 My name is :sparkles: Brianna Ford :sparkles: and I am a business analyst :bar_chart: :briefcase:. My primary focus is to analyze the operations and performance of a company in order to identify areas for improvement and recommend solutions. My ultimate goal is to help organizations make informed decisions that drive success.
 
 > A business analyst is like a detective, but with numbers instead of clues. 🕵🏾 :mag_right:
