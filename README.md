@@ -10,9 +10,6 @@
 <img src= "https://media.giphy.com/media/pjpGMumGzbS5LsaNp3/giphy.gif" width=30% height=30%>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briintech&label=Profile%20views&color=0e75b6&style=flat" alt="briintech" /> </p>
-<p align="left"> <img src="https://img.shields.io/github/followers/briintech?style=social" alt="briintech" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=briintech" alt="briintech" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/briannaford__" target="blank"><img src="https://img.shields.io/twitter/follow/briannaford__?logo=twitter&style=for-the-badge" alt="briannaford__" /></a> </p>
 
